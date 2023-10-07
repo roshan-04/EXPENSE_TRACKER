@@ -1,4 +1,4 @@
-# expense_tracker
+# Expense Tracker App
 
 A new Flutter project. That helps you keep the track of your finances.
 
